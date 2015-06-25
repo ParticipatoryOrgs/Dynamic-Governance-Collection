@@ -1,6 +1,6 @@
 # How to Contribute
 
-The purpose of the [Participatory Orgs Project](https://github.com/ParticipatoryOrgs) is to increase the participation of stakeholders in organizations by sharing opinionated open source documents that support participatory organizations, including legal, governance, best practices, and even code.
+The purpose of the [Participatory Orgs Project](https://github.com/ParticipatoryOrgs) is to increase the participation of stakeholders in organizations by sharing a curated set of opinionated Free Cultural Works documents that support participatory organizations, including legal, governance, best practices, and even code.
 
 Our desire is to apply these principles to our own work. Thus enabling third-party contributions to the Project and our repositories is essential for keeping the Participatory Orgs Project great.
 

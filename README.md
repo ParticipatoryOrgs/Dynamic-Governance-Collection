@@ -15,7 +15,9 @@ There are currently several variations of these methods, in particular Sociocrac
 
 ## Copyright & License
 
-All documents in this repository are copyright by their creators, and are licensed under one of a number of [Free Culture](https://creativecommons.org/freeworks) such as CC-BY, CC-BY-SA, CC0, Public Domain, etc. You may make derivative works (commercial or non-commercial) based on any of these documents, however, see the individual documents for any license requirements, such as attribution and/or committment to share the derivative work under the same license.
+![](https://creativecommons.org/images/deed/seal.png)
+
+All documents in this repository are copyright by their creators, and are available under one of a number of [Free Cultural Works](https://creativecommons.org/freeworks) licenses such as CC-BY, CC-BY-SA, CC0, Public Domain, etc. You may make derivative works (commercial or non-commercial) based on any of these documents, however, see the individual documents for any license requirements, such as attribution and/or committment to share the derivative work under the same license.
 
 ## Documents
 

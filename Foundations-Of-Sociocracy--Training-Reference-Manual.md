@@ -14,7 +14,9 @@ This manual is an introductory reference to principles, practices and underlying
 
 ## What is governance?
 
-￼**Consider the diagram at left** as a guide to reflect upon how we organize ourselves to get things done.
+![](Sociocracy-A%20Healthy%20Organization%20Has%E2%80%A6.png?raw=true)
+
+**Consider the diagram above** as a guide to reflect upon how we organize ourselves to get things done
 
 **Governance** engages all essential aspects of a healthy organization.
 

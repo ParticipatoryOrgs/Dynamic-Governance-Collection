@@ -23,6 +23,9 @@ The following documents in this repository are copyright by their creators, and 
 
 * [Foundations of Sociocracy: Training Reference Manual](https://github.com/ParticipatoryOrgs/Dynamic-Governance-Collection/blob/master/Foundations-Of-Sociocracy--Training-Reference-Manual.md)
   * (c)2014 [The Sociocracy Consulting Group](http://sociocracyconsulting.com), licensed [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
+* [Governance by Equals: An Introduction to Sociocracy](https://github.com/ParticipatoryOrgs/Dynamic-Governance-Collection/blob/master/Equality_in_Governance_-_Intro_to_Sociocracy.pdf)
+  * (c)2011 Jerry Koch-Gonzalez, Greg Rouillard and John Buck, licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/us/)
+
 
 ### Restricted Works
 
